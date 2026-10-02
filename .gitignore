@@ -1,0 +1,7 @@
+# repo holds only the two benchmark scripts
+*
+!.gitignore
+!schrodinger_pinn_vs_fd.py
+!schrodinger_5d.py
+!README.md
+!requirements.txt
